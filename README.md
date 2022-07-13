@@ -1,4 +1,4 @@
-For anyone who stumbles on this page, use the "ok this works" notebook. and then just add a new city in the "multiple URLs" cell. That should work. Do not run it too many times or you'll get timed out by zillow and have to change the headers.
+For anyone who stumbles on this page, use the "zillow_final" notebook. and then just add a new city in the "multiple URLs" cell. That should work. Do not run it too many times or you'll get timed out by zillow and have to change the headers.
 
 
 
